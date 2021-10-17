@@ -17,3 +17,9 @@ Before I get started, let me just do a planning.
 * It has permission to edit '/home', becuase that's where we put '.pythonx' folder into; Inside the '.pythonx' folder, we manage different python version for our users. Sprated by version tag, like 'python3.9', 'python3.6'
 * I even doubt for such a simple need, do we really need this package? https://github.com/urfave/cli/blob/master/docs/v2/manual.md
 * We'll use 'gox' for the cross-compiling
+
+## Achievement
+
+* Now we could run 'pythonx' to run different versions of Python. And also for those python versions that we don't have, we could install it automatically probably.
+* For more information, check this: https://youtu.be/bkyTEGQRegg
+* (This project has reached his end of life
